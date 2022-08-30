@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**CristianoVerissimo/CristianoVerissimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Hi there 👋 ###
 
 - 🌱 I’m currently learning Python, JavaScript and CSS
 - 👯 I’m looking to collaborate on Python
@@ -11,4 +6,3 @@ Here are some ideas to get you started:
 - 💬 Ask me about my life
 - 😄 Pronouns: He, She, Robot, Tree, Stardust...
 - ⚡ Fun fact: Nothing
--->
