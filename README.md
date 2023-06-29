@@ -1,8 +1,6 @@
-### Hi there 👋 ###
+### Olá 👋 ###
 
-- 🌱 I’m currently learning Python, JavaScript and CSS
-- 👯 I’m looking to collaborate on Python
-- 🤔 I’m looking for help with ALL QUESTIONS 😄😄😄😄😄
-- 💬 Ask me about my life
-- 😄 Pronouns: He, She, Robot, Tree, Stardust...
-- ⚡ Fun fact: Nothing
+- 🌱 Atualmente estou aprendendo Linux, Python, Git, Ansible.
+- 👯 Estou procurando colaborar em tudo.
+- 🤔 Estou procurando ajuda com tudo 😄😄😄😄😄
+- 💬 Pergunte-me sobre minha vida.
